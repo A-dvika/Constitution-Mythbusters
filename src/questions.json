@@ -1,0 +1,153 @@
+[
+    {
+      "question": "Is the Right to Property a fundamental right?",
+      "answer": "Myth",
+      "explanation": "The Right to Property was removed as a fundamental right by the 44th Amendment Act in 1978."
+    },
+    {
+      "question": "Does the Indian Constitution allow dual citizenship?",
+      "answer": "Myth",
+      "explanation": "The Constitution of India does not permit dual citizenship."
+    },
+    {
+      "question": "Can the President of India dismiss a state government?",
+      "answer": "Myth",
+      "explanation": "The President can only dismiss a state government if it fails to comply with the directions of the Union government under Article 356."
+    },
+    {
+      "question": "The Indian Constitution is based on which system of government?",
+      "answer": "Fact",
+      "explanation": "The Indian Constitution is based on the parliamentary system of government, where the executive is responsible to the legislature."
+    },
+    {
+      "question": "The Supreme Court of India can declare a law unconstitutional.",
+      "answer": "Fact",
+      "explanation": "The Supreme Court has the power of judicial review, which allows it to declare laws unconstitutional if they violate the provisions of the Constitution."
+    },
+    {
+      "question": "The Vice President of India is also the ex-officio Chairman of the Rajya Sabha.",
+      "answer": "Fact",
+      "explanation": "The Vice President is elected by the members of both Houses of Parliament."
+    },
+    {
+      "question": "The Speaker of the Lok Sabha is elected by the members of the Rajya Sabha.",
+      "answer": "Myth",
+      "explanation": "The Speaker is elected by the members of the Lok Sabha itself."
+    },
+    {
+      "question": "The Governor of a state is appointed by the Prime Minister.",
+      "answer": "Myth",
+      "explanation": "The Governor is appointed by the President on the advice of the Prime Minister."
+    },
+    {
+      "question": "The Chief Minister of a state is elected by the people.",
+      "answer": "Myth",
+      "explanation": "The Chief Minister is appointed by the Governor, but he is usually the leader of the party with a majority in the state assembly."
+    },
+    {
+      "question": "The Rajya Sabha is a permanent house.",
+      "answer": "Fact",
+      "explanation": "One-third of its members retire every two years, but the Rajya Sabha is never dissolved."
+    },
+    {
+      "question": "The Lok Sabha is dissolved by the President.",
+      "answer": "Fact",
+      "explanation": "The President dissolves the Lok Sabha on the advice of the Prime Minister."
+    },
+    {
+      "question": "The Election Commission of India is a constitutional body.",
+      "answer": "Fact",
+      "explanation": "It is established under Article 324 of the Constitution."
+    },
+    {
+      "question": "The Comptroller and Auditor General of India is appointed by the President.",
+      "answer": "Fact",
+      "explanation": "He is appointed by the President in consultation with the Public Accounts Committee of Parliament."
+    },
+    {
+      "question": "The Finance Commission is appointed by the President.",
+      "answer": "Fact",
+      "explanation": "It is appointed by the President every five years to review the distribution of central taxes between the Union and the states."
+    },
+    {
+      "question": "The Planning Commission is a constitutional body.",
+      "answer": "Myth",
+      "explanation": "It was a statutory body, but it was dissolved in 2014 and replaced by the NITI Aayog."
+    },
+    {
+      "question": "The National Human Rights Commission is a constitutional body.",
+      "answer": "Myth",
+      "explanation": "It is a statutory body established by an Act of Parliament."
+    },
+    {
+      "question": "The Supreme Court can issue writs.",
+      "answer": "Fact",
+      "explanation": "It can issue writs like habeas corpus, mandamus, quo warranto, certiorari, and prohibition."
+    },
+    {
+      "question": "The High Court can issue writs.",
+      "answer": "Fact",
+      "explanation": "It can issue writs within its territorial jurisdiction."
+    },
+    {
+      "question": "The President of India can be impeached.",
+      "answer": "Fact",
+      "explanation": "He can be impeached by a two-thirds majority of both Houses of Parliament."
+    },
+    {
+      "question": "The Vice President of India can be impeached.",
+      "answer": "Fact",
+      "explanation": "He can be impeached by a two-thirds majority of both Houses of Parliament."
+    },
+    {
+      "question": "The Governor of a state can be impeached.",
+      "answer": "Myth",
+      "explanation": "The Governor cannot be impeached. He can be removed by the President on the advice of the Union government."
+    },
+    {
+      "question": "The Chief Minister of a state can be impeached.",
+      "answer": "Myth",
+      "explanation": "The Chief Minister cannot be impeached. He can be removed by the Governor if he loses the confidence of the majority in the state assembly."
+    },
+    {
+      "question": "The Speaker of the Lok Sabha can be removed by the President.",
+      "answer": "Myth",
+      "explanation": "The Speaker can only be removed by a resolution passed by the Lok Sabha itself."
+    },
+    {
+      "question": "The Vice President of India can act as President if the President is unable to discharge his functions.",
+      "answer": "Fact",
+      "explanation": "The Vice President becomes the acting President in such cases."
+    },
+    {
+      "question": "The Chief Justice of India is appointed by the President.",
+      "answer": "Fact",
+      "explanation": "He is appointed by the President in consultation with the Chief Justice of India and the Supreme Court."
+    },
+    {
+      "question": "The Attorney General of India is appointed by the President.",
+      "answer": "Fact",
+      "explanation": "He is appointed by the President with the consent of the Lok Sabha."
+    },
+    {
+      "question": "The Solicitor General of India is appointed by the President.",
+      "answer": "Fact",
+      "explanation": "He is appointed by the President with the consent of the Lok Sabha."
+    },
+    {
+      "question": "The Union Public Service Commission is a constitutional body.",
+      "answer": "Fact",
+      "explanation": "It is established under Article 315 of the Constitution."
+    },
+    {
+      "question": "The State Public Service Commission is a constitutional body.",
+      "answer": "Fact",
+      "explanation": "It is established under Article 315 of the Constitution."
+    },
+    {
+      "question": "The National Green Tribunal is a constitutional body.",
+      "answer": "Myth",
+      "explanation": "It is a statutory body established by an Act of Parliament."
+    }
+    
+  ]
